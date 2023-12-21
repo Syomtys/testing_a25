@@ -1,0 +1,12 @@
+#head_form{
+	text-align: center;
+	color: #0d6efd;
+}
+#form{
+	background: #ebebeb;
+	color: #1c1c1c;
+	border-radius: 5px;
+}
+#result{
+	color: #0d6efd;
+}
