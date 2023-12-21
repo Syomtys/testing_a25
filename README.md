@@ -5,8 +5,8 @@ This project implements a rental calculation form for a user-specified number of
 
 ## Addendum
 The project is implemented in two versions:
--The first version performs calculations on the frontend, updating the results every time the data is changed to provide a more positive user experience.
--The second version sends the form data to the server-side, where the calculations are performed, and then returns the total cost.
+- The first version performs calculations on the frontend, updating the results every time the data is changed to provide a more positive user experience.
+- The second version sends the form data to the server-side, where the calculations are performed, and then returns the total cost.
 
 # Тестовое задание для а25
 
@@ -15,5 +15,5 @@ The project is implemented in two versions:
 
 ## Дополнение 
 Проект реализован в двух версиях, 
--Первая: где расчеты производятся на фронтенде, при каждом измени данных, для более положительного опыта пользователя.  
--Вторая: данные из формы отправляются на серверную часть, где производятся расчеты и возвращается итоговая стоимость.
+- Первая: где расчеты производятся на фронтенде, при каждом измени данных, для более положительного опыта пользователя.  
+- Вторая: данные из формы отправляются на серверную часть, где производятся расчеты и возвращается итоговая стоимость.
